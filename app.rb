@@ -24,4 +24,3 @@ class App < Sinatra::Base
   "#{@multiply_numbers}"
   end
 end
-end
